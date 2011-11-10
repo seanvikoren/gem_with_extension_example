@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Sean Vikoren"]
   s.email       = ["sean@vikoren.com"]
   s.homepage    = ""
-  s.summary     = %q{An example gem with a C extention.}
+  s.summary     = %q{An example gem with a C extension.}
   s.description = %q{This gem is intended to function as a starting point for developing gems that contain C optimizations.}
 
   s.rubyforge_project = "gem_with_extension_example"

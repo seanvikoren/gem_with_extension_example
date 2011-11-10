@@ -5,7 +5,7 @@ require "version"
 require 'complex'
 
 # C extensions
-require "infinity_check_c"
+#require "infinity_check_c"
 include InfinityCheckC
 
 module GemWithExtensionExample

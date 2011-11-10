@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version     = GemWithExtensionExample::VERSION
   s.authors     = ["Sean Vikoren"]
   s.email       = ["sean@vikoren.com"]
-  s.homepage    = ""
+  s.homepage    = "https://github.com/seanvikoren/gem_with_extension_example"
   s.summary     = %q{An example gem with a C extension.}
   s.description = %q{This gem is intended to function as a starting point for developing gems that contain C optimizations.}
 

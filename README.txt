@@ -8,10 +8,12 @@ sean@vikoren.com
 
 
 Here are some clues to making this into a gem:
+<make some changes to the gem and test that it works>
+<update the version>
 sean:gem_with_extension_example sean$ git commit -a -m "updated version"
 sean:gem_with_extension_example sean$ git push
 sean:gem_with_extension_example sean$ gem build gem_with_extension_example.gemspec
-sean:gem_with_extension_example sean$ gem push gem_with_extension_example-0.0.2.gem
+sean:gem_with_extension_example sean$ gem push gem_with_extension_example-0.0.2.2.gem
 
 # For local update after changing .gemspec
 bundle update

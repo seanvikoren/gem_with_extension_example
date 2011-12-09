@@ -16,11 +16,11 @@ Clues to making a Ruby Gem:
 
 1. You will need an account on github.com.
 2. You will also need an account on rubygems.org.
-* To generate your rubygems.org key:
+* To generate your rubygems.org key:  
     `curl -u rubygems_username https://rubygems.org/api/v1/api_key.yaml > ~/.gem/credentials`
 
-* Get your files all in the right spot:
-    `gem install "gem_with_extension_example"`
+* Get your files all in the right spot:  
+    `gem install "gem_with_extension_example"`  
      **Rename to your gem name.**
 
 * `cd new_gem_name`

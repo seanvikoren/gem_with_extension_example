@@ -6,7 +6,7 @@ gem_with_extension_example
 up the inner workings.  Please let me know if you find a way to make this better.
 
 Cheers,  
-Sean Vikoren  
+[Sean Vikoren](http://vikoren.com)  
 <sean@vikoren.com>  
 
 <br />

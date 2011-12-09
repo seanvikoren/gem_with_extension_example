@@ -1,4 +1,4 @@
-``gem_with_extension_example``
+`gem_with_extension_example`
 ====================================
 
 

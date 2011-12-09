@@ -2,7 +2,7 @@ gem_with_extension_example
 ====================================
 
 
-[gem\_with\_extension\_example](http://rubygems.org/gems/gem_with_extension_example) is a functioning gem that uses C to speed up
+[gem\_with\_extension\_example](http://rubygems.org/gems/gem_with_extension_example) is a functioning gem that uses C to speed up  
 the inner workings.  Please let me know if you find a way to make this better.
 
 Cheers,  

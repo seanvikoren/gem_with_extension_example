@@ -73,6 +73,7 @@ Misc Additional Clues
 
 <br />
 ### README.md format
+
 The '.md' stands for [markdown][], or in this case, [github-flavored-markdown][].
 
 <br />

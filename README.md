@@ -7,7 +7,6 @@ up the inner workings.  Please let me know if you find a way to make this better
 
 Cheers,  
 [Sean Vikoren](http://vikoren.com)  
-<sean.vikoren@gmail.com>  
 
 <br />
 

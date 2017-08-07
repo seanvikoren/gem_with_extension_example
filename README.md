@@ -66,8 +66,8 @@ Misc Additional Clues
 
 <br />
 ###There were many sources used to get this working, but here are a few:
-* [RailsCast 245: New Gem with Bundler][].
 
+* [RailsCast 245: New Gem with Bundler][].
 * [ProgrammingRuby][]
 * [Ruby C Extension API][]
 
